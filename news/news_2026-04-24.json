@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-24",
+  "updated_at": "2026-04-24T09:35:00+09:00",
+  "app": "OnSeosan",
+  "version": "1.0",
+  "categories": {
+    "city_notice": [
+      {
+        "title": "고유가 피해지원금 1차 신청 안내 (4.27~5.8)",
+        "summary": "고유가·고물가로 인한 시민 부담 경감을 위해 서산시가 '고유가 피해지원금'을 지급합니다. 1차 신청 대상은 기초생활수급자(60만원), 차상위계층·한부모가족(50만원)이며, 신청기간은 2026년 4월 27일(월)부터 5월 8일(금)까지입니다.",
+        "date": "2026-04-24",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/www/contents.do?key=10669",
+        "tags": ["복지", "지원금", "고유가", "신청"]
+      },
+      {
+        "title": "희망공원 '추모의 집' 운영 개시",
+        "summary": "서산시 희망공원 '추모의 집'이 2026년 4월 20일부터 운영을 시작하였습니다. 운영시간은 매일 09:00부터 18:00까지이며 연중무휴로 운영됩니다.",
+        "date": "2026-04-20",
+        "source": "서산시청 공지사항",
+        "url": "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+        "tags": ["추모의집", "희망공원", "시설개관"]
+      },
+      {
+        "title": "해빙기 대비 급경사지 안전점검 완료",
+        "summary": "서산시가 2026년 해빙기 대비 관내 급경사지 120개소에 대한 안전점검을 실시하였습니다. 점검 결과에 따른 후속 조치가 진행 중입니다.",
+        "date": "2026-04-22",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+        "tags": ["안전", "점검", "급경사지"]
+      },
+      {
+        "title": "2026년 새롭게 시행·변경되는 제도 및 시책 안내",
+        "summary": "서산시가 2026년부터 새롭게 시행되거나 변경되는 주요 제도 및 시책을 종합 안내하고 있습니다. 복지·교통·교육 등 분야별 변동 사항을 시청 홈페이지에서 확인할 수 있습니다.",
+        "date": "2026-04-24",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/",
+        "tags": ["시책", "제도변경", "안내"]
+      }
+    ],
+    "culture_event": [
+      {
+        "title": "서산시립합창단 목요 상설공연 (중앙호수공원)",
+        "summary": "서산시립합창단이 4월 16일 오후 7시 중앙호수공원에서 목요 상설공연을 개최하였습니다. 봄의 정취를 클래식과 다양한 음악으로 전하는 야외 무대로 준비되었습니다.",
+        "date": "2026-04-16",
+        "source": "서산시문화회관",
+        "url": "https://www.seosan.go.kr/culture/index.do",
+        "tags": ["공연", "시립합창단", "중앙호수공원"]
+      },
+      {
+        "title": "미디어아트 클래식: 명화, 음악을 만나다 II — 에드바르트 뭉크",
+        "summary": "서산시문화회관에서 '미디어아트 클래식: 명화, 음악을 만나다 II. 에드바르트 뭉크' 공연이 4월 4일(토) 오후 3시에 개최되었습니다. 만 7세 이상 관람 가능한 가족형 공연입니다.",
+        "date": "2026-04-04",
+        "source": "서산시문화회관",
+        "url": "https://www.seosan.go.kr/culture/schdulCalendar.do?key=805&site=culture",
+        "tags": ["미디어아트", "클래식", "문화회관"]
+      },
+      {
+        "title": "시립합창단 '찾아가는 음악회' 4·5월 상설공연 운영",
+        "summary": "서산시립합창단이 시민 문화 향유 기회 확대를 위해 4월과 5월 상설공연 및 찾아가는 음악회를 운영합니다. 정기연주회(3월·9월), 기획공연(6월·9월)과 함께 연중 공연이 확대됩니다.",
+        "date": "2026-04-24",
+        "source": "서산시문화회관",
+        "url": "https://www.seosan.go.kr/culture/index.do",
+        "tags": ["합창단", "찾아가는음악회", "상설공연"]
+      }
+    ],
+    "lifelong_learning": [
+      {
+        "title": "2026년 상반기 정규학기 강좌 운영 및 수강 안내",
+        "summary": "서산시 평생학습관이 2026년 상반기(3월~6월) 정규학기 강사 선정을 마치고 강좌를 운영 중입니다. 수강신청은 서산시 통합예약시스템의 '교육/강좌' 메뉴를 통해 가능합니다.",
+        "date": "2026-04-24",
+        "source": "서산시 평생학습관",
+        "url": "https://total.seosan.go.kr/total/selectEdcAtrCourseListU.do?key=186&searchInsttCode=01&cl1No=25",
+        "tags": ["평생학습", "정규학기", "수강신청"]
+      },
+      {
+        "title": "2026년 시민정보화교육 연중 운영",
+        "summary": "서산시가 2026년 1월부터 11월까지 시민정보화교육을 연중 운영합니다. 평생학습관 전산교육장에서 컴퓨터 왕초보, 한글·엑셀·파워포인트, 스마트폰 활용, AI 활용 등 다양한 과정을 진행합니다.",
+        "date": "2026-04-24",
+        "source": "내외일보",
+        "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2296112",
+        "tags": ["정보화교육", "디지털", "평생학습관"]
+      },
+      {
+        "title": "서산시 통합예약시스템을 통한 강좌·시설 예약",
+        "summary": "서산시 통합예약시스템(total.seosan.go.kr)에서 평생학습관·문화회관·복지관 등 각 기관의 교육·강좌, 체험·견학, 시설대관을 한 번에 예약할 수 있습니다.",
+        "date": "2026-04-24",
+        "source": "서산시 통합예약시스템",
+        "url": "https://total.seosan.go.kr/",
+        "tags": ["통합예약", "강좌", "시설대관"]
+      }
+    ],
+    "welfare": [
+      {
+        "title": "서산시 종합사회복지관 교육프로그램 안내",
+        "summary": "서산시 종합사회복지관은 복지관 소개, 사회복지사업, 교육프로그램 및 커뮤니티 정보를 제공합니다. 본관·대산분관의 프로그램 및 예약 정보는 시청 홈페이지와 통합예약시스템에서 확인하실 수 있습니다.",
+        "date": "2026-04-24",
+        "source": "서산시 종합사회복지관",
+        "url": "https://www.seosan.go.kr/swcenter/index.do",
+        "tags": ["복지관", "교육프로그램", "사회복지"]
+      },
+      {
+        "title": "드림스타트 가족운동회 등 4월 복지 행사 운영",
+        "summary": "서산시가 4월 중 드림스타트 가족운동회, 장애인의 날 행사, 4.19 혁명 유공자 위문 등 다양한 복지 행사를 운영합니다. 자세한 일정은 시청 홈페이지에서 확인하실 수 있습니다.",
+        "date": "2026-04-24",
+        "source": "서산시 2026 주요업무계획",
+        "url": "https://www.seosan.go.kr/DATA/bbs/106/202512290910008444DL0LN.pdf",
+        "tags": ["드림스타트", "장애인의날", "복지행사"]
+      },
+      {
+        "title": "복지넷 — 전국 복지정보 및 지원사업 안내",
+        "summary": "복지넷(bokji.net)에서 전국 복지시설 및 지원사업 정보를 확인할 수 있습니다. 서산 지역 사회복지사업 공모 및 종사자 교육 정보도 함께 제공됩니다.",
+        "date": "2026-04-24",
+        "source": "복지넷",
+        "url": "https://www.bokji.net/",
+        "tags": ["복지넷", "지원사업", "사회복지"]
+      }
+    ],
+    "social_media": [
+      {
+        "title": "서산시 공식 블로그 (seosanlove) — 일상 속 서산 소식",
+        "summary": "서산시 공식 네이버 블로그 'seosanlove'에서 시정 소식, 관광·축제, 맛집·여행 콘텐츠가 꾸준히 게시되고 있습니다. 4월에는 봄꽃 명소와 주말 나들이 추천 글이 다수 업데이트되었습니다.",
+        "date": "2026-04-24",
+        "source": "서산시 공식 블로그",
+        "url": "https://blog.naver.com/seosanlove",
+        "tags": ["블로그", "관광", "일상소식"]
+      },
+      {
+        "title": "서산시 공식 인스타그램 (@seosancity)",
+        "summary": "서산시 공식 인스타그램(@seosancity)에서 행사 포스터, 시립합창단 공연, 시정 카드뉴스 등이 업로드되고 있습니다. 4월 중 상설공연과 봄맞이 행사 게시물이 주요 콘텐츠로 소개되고 있습니다.",
+        "date": "2026-04-24",
+        "source": "서산시 공식 인스타그램",
+        "url": "https://www.instagram.com/seosancity/",
+        "tags": ["인스타그램", "카드뉴스", "행사홍보"]
+      }
+    ]
+  },
+  "sources": {
+    "city_notice": "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+    "city_home": "https://www.seosan.go.kr/",
+    "blog": "https://blog.naver.com/seosanlove",
+    "instagram": "https://www.instagram.com/seosancity/",
+    "culture_center": "https://www.seosan.go.kr/culture/index.do",
+    "culture_schedule": "https://www.seosan.go.kr/culture/schdulCalendar.do?key=805&site=culture",
+    "lifelong_learning": "https://www.seosan.go.kr/learning/index.do",
+    "total_reservation": "https://total.seosan.go.kr/",
+    "welfare_center": "https://www.seosan.go.kr/swcenter/index.do",
+    "bokjinet": "https://www.bokji.net/"
+  }
+}
