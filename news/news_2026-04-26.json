@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-26",
+  "updated_at": "2026-04-26T08:10:00+09:00",
+  "app": "OnSeosan",
+  "version": "1.0",
+  "categories": {
+    "city_notice": [
+      {
+        "title": "희망공원 '추모의 집' 4월 20일 본격 운영 개시",
+        "summary": "서산시는 인지면 산동리 일원 희망공원 내 봉안당 '추모의 집'을 4월 20일부터 본격 운영합니다. 총 2만 기 규모(개인 1만 8천 기, 부부 2천 기)이며, 운영시간은 09:00~18:00, 연중무휴입니다. 사망일 3개월 전부터 서산시에 거주한 시민이 이용 대상입니다.",
+        "date": "2026-04-17",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/www/selectBbsNttView.do?key=1256&bbsNo=97&nttNo=334148",
+        "tags": ["복지", "추모", "희망공원"]
+      },
+      {
+        "title": "고유가 피해지원금 1차 신청 4월 27일 시작",
+        "summary": "기초생활수급자(60만 원), 차상위계층·한부모가족(50만 원)을 대상으로 한 고유가 피해지원금 1차 신청이 4월 27일(월)부터 5월 8일(금)까지 진행됩니다. 소득 하위 70% 시민(15만 원)은 5월 18일~7월 3일에 신청 가능하며, 사용 기한은 8월 31일까지입니다.",
+        "date": "2026-04-20",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/www/contents.do?key=10669",
+        "tags": ["지원금", "복지", "고유가"]
+      },
+      {
+        "title": "청렴시민감사관 모집 — 4월 27일 마감",
+        "summary": "서산시는 시민 시각의 감사 강화를 위해 청렴시민감사관을 4월 27일까지 모집합니다. 회계·건축·토목·환경·복지·IT 등 분야 전문가 또는 관내 2년 이상 거주 시민이 대상이며, 선정자는 2026년 5월 18일부터 2028년 5월 17일까지 2년간 활동합니다.",
+        "date": "2026-04-15",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/www/selectBbsNttView.do?key=1256&bbsNo=97&nttNo=334343",
+        "tags": ["모집", "감사", "공모"]
+      },
+      {
+        "title": "2026년 모범 어린이 시상식 4월 28일 시청 대회의실 개최",
+        "summary": "서산시는 4월 28일 시청 대회의실에서 관내 초등학교장의 추천을 받은 모범 어린이 30명을 표창하는 시상식을 개최합니다. 어린이날을 맞아 어린이의 노력과 모범적 생활을 격려하는 자리입니다.",
+        "date": "2026-04-23",
+        "source": "충남내포뉴스",
+        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=55482",
+        "tags": ["어린이날", "시상식"]
+      }
+    ],
+    "culture_event": [
+      {
+        "title": "서산시립합창단 목요 상설공연 '봄을 그리다'",
+        "summary": "서산시립합창단이 4월 16일 오후 7시 중앙호수공원 야외무대에서 봄을 주제로 한 목요 상설공연 '봄을 그리다'를 개최했습니다. 봄의 정취를 클래식과 가곡으로 전하는 시민 친화 공연이며, 5월에도 상설공연이 이어질 예정입니다.",
+        "date": "2026-04-16",
+        "source": "충남내포뉴스",
+        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=54643",
+        "tags": ["공연", "합창", "봄"]
+      },
+      {
+        "title": "서산시문화회관 2026 상반기 기획공연 라인업 공개",
+        "summary": "서산시문화회관이 2026년 상반기 기획공연 라인업을 수정·공개했습니다. 5월 공연이 추가되었고 6월 공연 출연진도 발표되어, 시민들이 즐길 수 있는 공연이 다양해졌습니다. 자세한 일정은 문화회관 누리집에서 확인할 수 있습니다.",
+        "date": "2026-04-10",
+        "source": "서산시문화회관",
+        "url": "https://www.seosan.go.kr/culture/schdulCalendar.do?key=805&site=culture",
+        "tags": ["공연", "문화회관", "기획공연"]
+      },
+      {
+        "title": "제104회 어린이날 가족 큰잔치 5월 5일 개최",
+        "summary": "서산시는 5월 5일 오전 9시부터 오후 3시까지 서산종합운동장 시민체육관·실내테니스장에서 어린이 가족 큰잔치를 개최합니다. LED 나비 드론 퍼포먼스, 합창, 가족 레크리에이션과 함께 28개 체험 부스가 운영됩니다.",
+        "date": "2026-04-23",
+        "source": "충남내포뉴스",
+        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=55482",
+        "tags": ["어린이날", "가족", "체험"]
+      }
+    ],
+    "lifelong_learning": [
+      {
+        "title": "2026년 서산시민 정보화교육 연중 운영",
+        "summary": "서산시는 디지털 역량 강화를 위해 2026년 1월부터 11월까지 시민정보화교육을 연중 운영합니다. 컴퓨터·한글·엑셀·파워포인트·스마트폰·AI 활용 등 과정별 30명 모집, 수강료 전액 무료. 통합예약시스템(total.seosan.go.kr) 또는 스마트정보과 전화 접수.",
+        "date": "2026-04-08",
+        "source": "내외일보",
+        "url": "https://www.naewoeilbo.com/news/articleView.html?idxno=2296112",
+        "tags": ["교육", "정보화", "시민강좌"]
+      },
+      {
+        "title": "서산시 평생학습관 2026 상반기 정규학기 강좌 운영",
+        "summary": "서산시 평생학습관 2026년 상반기 정규학기 강사 모집 결과가 발표되었으며, 선정된 강좌들이 운영 중입니다. 통합예약시스템에서 강좌별 접수 일정을 확인할 수 있습니다.",
+        "date": "2026-04-05",
+        "source": "서산시 평생학습관",
+        "url": "https://www.seosan.go.kr/learning/selectBbsNttView.do?key=407&bbsNo=91&nttNo=333801",
+        "tags": ["평생학습", "강좌", "모집"]
+      }
+    ],
+    "welfare": [
+      {
+        "title": "서산시 종합사회복지관 2026년 다양한 복지 프로그램 운영",
+        "summary": "서산시 종합사회복지관은 2026년 기능·취미 교육(공예·서예·요가·요리), 60세 이상 어르신 아카데미, 발달지연 아동 맞춤형 조기교육, 재가복지서비스(밑반찬·이동목욕) 등 알찬 복지 프로그램을 추진합니다.",
+        "date": "2026-04-12",
+        "source": "시사저널",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=324311",
+        "tags": ["복지", "프로그램", "어르신"]
+      },
+      {
+        "title": "어린이 이용 시설 종사자 응급처치 안전교육 실시",
+        "summary": "서산시는 학원·어린이집 등 13세 미만 어린이 이용 시설 종사자 200여 명을 대상으로 응급상황 행동 요령, 영아·소아 심폐소생술, 기도 폐쇄 대처법 등 응급처치 안전교육을 실시했습니다. 5·7·8·9·10월에도 교육이 이어집니다.",
+        "date": "2026-04-22",
+        "source": "서산포스트",
+        "url": "https://www.seosanpost.co.kr/news/articleView.html?idxno=58956",
+        "tags": ["안전", "응급처치", "어린이"]
+      }
+    ],
+    "social_media": [
+      {
+        "title": "서산시 공식 채널 — 봄 정취와 시정 소식 안내",
+        "summary": "서산시 공식 블로그(seosanlove)와 인스타그램에서 4월 봄 풍경, 시민체육관 행사 준비 모습, 추모의 집 운영 안내 등 시정 소식을 전하고 있습니다.",
+        "date": "2026-04-25",
+        "source": "서산시 공식 블로그",
+        "url": "https://blog.naver.com/seosanlove",
+        "tags": ["블로그", "SNS", "시정소식"]
+      }
+    ]
+  },
+  "sources": [
+    "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+    "https://www.seosan.go.kr/",
+    "https://blog.naver.com/seosanlove",
+    "https://www.instagram.com/seosancity/",
+    "https://www.seosan.go.kr/culture/index.do",
+    "https://www.seosan.go.kr/learning/index.do",
+    "https://www.seosan.go.kr/swcenter/index.do",
+    "https://www.seosan.go.kr/www/selectBbsNttList.do?bbsNo=620&key=2973",
+    "https://cnc.cacf.or.kr/"
+  ]
+}
