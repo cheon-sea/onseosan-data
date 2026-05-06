@@ -1,133 +1,167 @@
 {
-  "date": "2026-04-30",
-  "updated_at": "2026-04-30T09:30:00+09:00",
+  "date": "2026-05-06",
+  "updated_at": "2026-05-06T09:00:00+09:00",
   "app": "OnSeosan",
   "version": "1.0",
   "categories": {
     "city_notice": [
       {
-        "title": "희망공원 '추모의 집' 4월 20일부터 운영 시작",
-        "summary": "서산시는 희망공원 내 추모의 집을 2026년 4월 20일부터 정식 운영합니다. 운영 시간은 매일 09:00~18:00이며 연중무휴로 시민에게 개방됩니다.",
-        "date": "2026-04-20",
-        "source": "서산시청 공지사항",
-        "url": "https://www.seosan.go.kr/www/selectBbsNttView.do?key=1256&bbsNo=97&nttNo=334343",
-        "tags": ["추모의집", "희망공원", "공원시설"]
+        "title": "서산시, 2026년 새롭게 시행·변경되는 제도 및 시책 안내",
+        "summary": "서산시가 2026년 새롭게 시행·변경되는 제도 및 시책을 담은 안내서를 시 누리집과 SNS에 공개했다. 보건·복지, 교육·문화, 도시·교통, 환경·안전, 지역경제·행정 5개 분야 총 61개 시책이 담겨 있으며 이 중 서산시 자체 사업은 20건이다.",
+        "date": "2026-05-04",
+        "source": "데일리한국",
+        "url": "https://daily.hankooki.com/news/articleView.html?idxno=1330722",
+        "tags": [
+          "시책안내",
+          "2026",
+          "행정"
+        ]
       },
       {
-        "title": "고유가 피해지원금 1차 신청 접수 (4/27~5/8)",
-        "summary": "기초생활수급자, 차상위계층, 한부모가족을 대상으로 한 고유가 피해지원금 1차 신청이 4월 27일부터 5월 8일까지 진행됩니다. 해당 가구는 동 행정복지센터 등에서 신청하시기 바랍니다.",
-        "date": "2026-04-27",
-        "source": "서산시청 시민홍보판",
-        "url": "https://seosan.go.kr/www/selectBbsNttView.do?bbsNo=122&integrDeptCode=&key=1347&nttNo=334154",
-        "tags": ["고유가", "피해지원금", "복지"]
-      },
-      {
-        "title": "2026년 해빙기 급경사지 120개소 안전점검 결과 안내",
-        "summary": "서산시는 해빙기를 맞아 관내 급경사지 120개소에 대한 안전점검을 실시하고 그 결과를 시민에게 공개했습니다. 위험 요인이 발견된 곳은 즉시 보수·보강 조치할 계획입니다.",
-        "date": "2026-04-15",
+        "title": "서산시 노후거점산업단지 경쟁력 강화 설문조사 실시",
+        "summary": "서산시가 노후거점산업단지 경쟁력 강화 사업과 관련한 설문조사를 실시한다. 시민과 입주기업의 의견을 폭넓게 수렴하기 위한 절차이며, 설문 기간은 5월 31일까지다.",
+        "date": "2026-05-01",
         "source": "서산시청",
-        "url": "https://www.seosan.go.kr/www/selectBbsNttList.do?key=1687&bbsNo=12",
-        "tags": ["안전점검", "급경사지", "재난예방"]
+        "url": "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+        "tags": [
+          "설문조사",
+          "산업단지"
+        ]
       },
       {
-        "title": "2026년 The 안심식당 50개소 신규지정 추진",
-        "summary": "서산시는 시민이 믿고 이용할 수 있는 음식문화 조성을 위해 2026년 The 안심식당 50개소를 신규로 지정 추진합니다. 위생관리·덜어 먹기 등 안심식당 3대 실천사항을 준수하는 업소가 대상입니다.",
-        "date": "2026-04-22",
-        "source": "충남내포뉴스",
-        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=55761",
-        "tags": ["안심식당", "위생관리", "음식문화"]
+        "title": "서산시, 상반기 영농 부산물 안전 처리 지원사업 추진",
+        "summary": "서산시는 상반기 영농 부산물 안전 처리 지원사업을 진행한다. 영농 부산물 파쇄단이 신청 농가를 직접 방문해 과수 잔가지·콩대·고추대 등을 파쇄하며, 소각으로 인한 미세먼지와 산불 위험을 줄이는 것이 목적이다.",
+        "date": "2026-05-02",
+        "source": "전국매일신문",
+        "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1221325",
+        "tags": [
+          "농업",
+          "산불예방",
+          "환경"
+        ]
       }
     ],
     "culture_event": [
       {
-        "title": "제18회 류방택 별축제 5월 2일 개최",
-        "summary": "서산시는 5월 2일(토) 오전 10시부터 오후 9시까지 서산류방택천문기상과학관 앞에서 제18회 류방택 별축제를 개최합니다. 천체관측, 미니 로켓 만들기, 창작공연 '별의 별 이야기' 등 가족형 복합 프로그램이 운영됩니다.",
-        "date": "2026-04-25",
-        "source": "서산인터넷뉴스",
-        "url": "http://ssinews.co.kr/bbs/board.php?bo_table=news&wr_id=17351",
-        "tags": ["류방택별축제", "천문", "가족축제"]
+        "title": "서산시, 가족뮤지컬 ‘장수탕 선녀님’ 5월 16일 서산시문화회관 공연",
+        "summary": "서산시는 5월 16일(토) 오전 11시와 오후 3시 두 차례에 걸쳐 서산시문화회관 대공연장에서 가족뮤지컬 ‘장수탕 선녀님’을 무대에 올린다. 백희나 작가의 그림책 원작을 바탕으로 한 작품으로, 5세 이상 관람 가능하며 5월 14일 오전 10시부터 문화회관 누리집에서 예매할 수 있다.",
+        "date": "2026-05-05",
+        "source": "충남내포뉴스",
+        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=54714",
+        "tags": [
+          "뮤지컬",
+          "가족공연",
+          "문화회관"
+        ]
       },
       {
-        "title": "서산시립합창단, 5월 상설공연 운영 확대",
-        "summary": "서산시립합창단이 4월·5월·9월·10월 상설공연을 마련해 시민이 보다 자주 합창을 접할 수 있도록 합니다. 정기연주회와 기획공연 외에 '찾아가는 음악회'도 강화될 예정입니다.",
-        "date": "2026-04-17",
+        "title": "서산시립합창단, 연중 공연 확대… ‘찾아가는 합창’으로 시민 곁으로",
+        "summary": "서산시립합창단이 정기연주회 외에 기획공연·찾아가는 음악회 등 연중 공연 일정을 확대한다. 정기연주회는 3월·9월, 기획공연은 6월·9월에 서산시문화회관 대공연장에서 열릴 예정이다.",
+        "date": "2026-05-03",
         "source": "더페어뉴스",
         "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=70008",
-        "tags": ["서산시립합창단", "상설공연", "찾아가는음악회"]
+        "tags": [
+          "서산시립합창단",
+          "음악",
+          "공연"
+        ]
       },
       {
-        "title": "서산시문화회관 2026 상반기 기획공연 진행 중",
-        "summary": "서산시문화회관에서는 2026년 상반기 기획공연 라인업을 운영 중입니다. 5월 공연이 추가되었으며 6월 공연 출연진도 공개되었습니다. 자세한 일정은 문화회관 공연·전시 캘린더에서 확인할 수 있습니다.",
-        "date": "2026-04-20",
-        "source": "서산시 문화회관",
-        "url": "https://www.seosan.go.kr/culture/schdulCalendar.do?key=805&site=culture",
-        "tags": ["문화회관", "기획공연", "공연일정"]
+        "title": "서산버드랜드 어린이날 특별프로그램 운영",
+        "summary": "서산시는 어린이날을 맞아 서산버드랜드에서 공연·생태체험·어린이 놀이·지역주민 참여 등 4개 부문으로 구성된 특별프로그램을 운영했다. 철새전시관 1층에서는 마술 공연과 한국음악협회 서산지부의 클래식 음악회가 진행됐다.",
+        "date": "2026-05-04",
+        "source": "서산포스트",
+        "url": "https://www.seosanpost.co.kr/news/articleView.html?idxno=59254",
+        "tags": [
+          "어린이날",
+          "버드랜드",
+          "체험"
+        ]
       }
     ],
     "lifelong_learning": [
       {
-        "title": "2026년 평생학습관 정규학기(상반기) 강좌 운영",
-        "summary": "서산시 평생학습관은 2026년 상반기 정규학기 강좌를 통합예약시스템(total.seosan.go.kr)에서 운영 중입니다. 생활문해, 진로직업, 문화예술, 인문시민 등 약 691개 강좌가 등록되어 있으며 10명 미만 강좌는 폐강될 수 있습니다.",
-        "date": "2026-04-10",
-        "source": "서산시 통합예약시스템",
-        "url": "https://total.seosan.go.kr/total/selectEdcAtrCourseListU.do?key=186&searchInsttCode=01&cl1No=25",
-        "tags": ["평생학습관", "정규학기", "강좌모집"]
+        "title": "2026년 서산시 평생학습관 정규학기(상반기) 강사 모집 결과 안내",
+        "summary": "서산시 평생학습관이 2026년 정규학기(상반기) 강사 모집 결과를 안내했다. 분야별 선정 강사와 추후 강좌 운영 일정은 평생학습관 누리집에서 확인할 수 있다.",
+        "date": "2026-05-02",
+        "source": "서산시 평생학습관",
+        "url": "https://www.seosan.go.kr/learning/selectBbsNttView.do?key=407&bbsNo=91&nttNo=333697",
+        "tags": [
+          "평생학습",
+          "강사모집"
+        ]
       },
       {
-        "title": "2026년 행복마을학교 운영자 공개 모집",
-        "summary": "서산시는 마을 단위 평생학습 거점인 '행복마을학교'의 2026년 운영자를 공개 모집합니다. 마을 주민 누구나 참여할 수 있는 학습공동체 활동을 발굴·지원할 예정입니다.",
-        "date": "2026-04-08",
-        "source": "충남내포뉴스",
-        "url": "https://www.naeponews.co.kr/news/articleView.html?idxno=48498",
-        "tags": ["행복마을학교", "평생학습", "운영자모집"]
+        "title": "서산시 통합예약시스템에서 정규학기 강좌 접수 진행",
+        "summary": "서산시 통합예약시스템(total.seosan.go.kr)에서 평생학습관 및 읍면동 평생학습센터의 정규학기 강좌 접수가 진행 중이다. 시민들은 분야별로 강좌를 검색·신청할 수 있다.",
+        "date": "2026-05-04",
+        "source": "서산시 통합예약시스템",
+        "url": "https://total.seosan.go.kr/total/selectEdcAtrCourseListU.do?key=186&searchInsttCode=01&cl1No=25",
+        "tags": [
+          "평생학습",
+          "강좌접수"
+        ]
       }
     ],
     "welfare": [
       {
-        "title": "서산시 종합사회복지관 2026년 주요사업 안내",
-        "summary": "서산시 종합사회복지관은 2026년 기능·취미 교육, 어르신 아카데미, 발달지연 아동 맞춤형 조기교육, 재가복지서비스 등 다양한 사업을 추진합니다. 자세한 프로그램은 복지관 누리집에서 확인할 수 있습니다.",
-        "date": "2026-04-05",
-        "source": "서산시 종합사회복지관",
-        "url": "https://www.seosan.go.kr/swcenter/index.do",
-        "tags": ["종합사회복지관", "어르신아카데미", "재가복지"]
+        "title": "서산시, 어버이날 기념 경로행사 4월 29일~5월 8일 15개 읍면동 개최",
+        "summary": "서산시가 어버이날을 맞아 4월 29일부터 5월 8일까지 관내 15개 읍면동에서 경로행사를 진행한다. 안전관리계획을 시 안전관리 실무위원회에서 사전 심의해 안전한 행사 운영에 만전을 기한다.",
+        "date": "2026-05-05",
+        "source": "서산포스트",
+        "url": "https://www.seosanpost.co.kr/news/articleView.html?idxno=59308",
+        "tags": [
+          "어버이날",
+          "경로행사",
+          "복지"
+        ]
       },
       {
-        "title": "서산시 다양한 복지서비스로 시민 삶의 질 향상",
-        "summary": "서산시는 시민 삶의 질 향상을 위해 노인 일자리, 발달지연 아동 조기교육, 취약계층 대상 재가복지서비스 등 맞춤형 복지서비스를 폭넓게 제공하고 있습니다.",
-        "date": "2026-04-12",
-        "source": "시사저널",
-        "url": "https://www.sisajournal.com/news/articleView.html?idxno=324311",
-        "tags": ["복지서비스", "취약계층", "맞춤형복지"]
+        "title": "서산시 종합사회복지관, 2026년 신규사업·교육프로그램 안내",
+        "summary": "서산시 종합사회복지관이 2026년 신규 사업 및 교육·복지 프로그램 운영 계획을 안내한다. 사회복지사업·교육프로그램·커뮤니티 등 분야별 일정은 복지관 누리집에서 확인할 수 있다.",
+        "date": "2026-05-01",
+        "source": "서산시 종합사회복지관",
+        "url": "https://www.seosan.go.kr/swcenter/index.do",
+        "tags": [
+          "복지관",
+          "프로그램"
+        ]
       }
     ],
     "social_media": [
       {
-        "title": "[블로그] 서산시 봄나들이 추천 명소 모음",
-        "summary": "서산시 공식 블로그(seosanlove)에서는 봄을 맞아 시민과 관광객에게 추천하는 봄나들이 명소를 안내하고 있습니다. 중앙호수공원, 류방택천문기상과학관, 간월도 등 가족 단위로 즐길 수 있는 코스를 소개합니다.",
-        "date": "2026-04-18",
-        "source": "서산시 공식 블로그",
-        "url": "https://blog.naver.com/seosanlove",
-        "tags": ["봄나들이", "관광", "공식블로그"]
-      },
-      {
-        "title": "[인스타그램] 서산시립합창단 '봄을 그리다' 상설공연 현장",
-        "summary": "서산시 공식 인스타그램(@seosancity)에서 4월 16일 중앙호수공원에서 열린 서산시립합창단 목요 상설공연 '봄을 그리다' 현장을 소개했습니다. 시민들이 봄밤의 합창을 만끽한 모습이 담겼습니다.",
-        "date": "2026-04-16",
+        "title": "[서산시 공식] 어린이 가족 큰잔치 식전·축하공연 라인업 공개",
+        "summary": "서산시 공식 채널이 5월 5일 서산종합운동장에서 열린 어린이 가족 큰잔치의 공연 라인업을 공개했다. 해미청소년문화의집 ‘럭키밴드’와 서산시소년소녀합창단의 식전무대, 댄스동아리 ‘스피넬’과 밴드 ‘까라멜’의 축하공연이 이어졌다.",
+        "date": "2026-05-05",
         "source": "서산시 공식 인스타그램",
         "url": "https://www.instagram.com/seosancity/",
-        "tags": ["인스타그램", "시립합창단", "중앙호수공원"]
+        "tags": [
+          "어린이날",
+          "공연",
+          "SNS"
+        ]
+      },
+      {
+        "title": "[서산시 공식 블로그] 5월 가정의 달 서산 즐길거리 모음",
+        "summary": "서산시 공식 블로그(seosanlove)가 5월 가정의 달을 맞아 서산버드랜드, 해미읍성, 가야산 등 가족 단위로 즐길 수 있는 명소·체험·먹거리를 정리해 소개한다.",
+        "date": "2026-05-04",
+        "source": "서산시 공식 블로그",
+        "url": "https://blog.naver.com/seosanlove",
+        "tags": [
+          "가정의달",
+          "관광",
+          "블로그"
+        ]
       }
     ]
   },
   "sources": [
-    "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
     "https://www.seosan.go.kr/",
-    "https://blog.naver.com/seosanlove",
-    "https://www.instagram.com/seosancity/",
+    "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
     "https://www.seosan.go.kr/culture/index.do",
     "https://www.seosan.go.kr/learning/index.do",
     "https://www.seosan.go.kr/swcenter/index.do",
-    "https://www.seosan.go.kr/www/selectBbsNttList.do?bbsNo=620&key=2973",
-    "https://cnc.cacf.or.kr/"
+    "https://blog.naver.com/seosanlove",
+    "https://www.instagram.com/seosancity/"
   ]
 }
