@@ -1,0 +1,122 @@
+{
+  "date": "2026-06-10",
+  "updated_at": "2026-06-10T09:00:00+09:00",
+  "app": "OnSeosan",
+  "version": "1.0",
+  "categories": {
+    "city_notice": [
+      {
+        "title": "서산시, 제104회 어린이날 가족 큰잔치 개최",
+        "summary": "서산시가 어린이날을 맞아 가족 큰잔치를 개최했다. 서산종합운동장 일원에서 다채로운 공연과 28개 체험 부스가 운영됐다. 전통 한과 만들기, 목공 체험 등 가족 단위 프로그램이 마련됐다.",
+        "date": "2026-04-23",
+        "source": "대전일보",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2270937",
+        "tags": [
+          "어린이날",
+          "가족",
+          "행사"
+        ]
+      },
+      {
+        "title": "서산버드랜드, 철새 먹이 경작체험 운영",
+        "summary": "서산시가 천수만을 찾는 철새를 위해 먹이 경작체험을 진행한다. 모내기부터 수확, 먹이 제공까지 시민이 참여하는 생태 프로그램이다. 철새도래지 보전과 생태교육을 함께 도모한다.",
+        "date": "2026-05-20",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1157208",
+        "tags": [
+          "버드랜드",
+          "철새",
+          "생태"
+        ]
+      }
+    ],
+    "culture_event": [
+      {
+        "title": "서산시, 2026년 7개 축제 개최 확정",
+        "summary": "서산시가 축제심의위원회를 열고 올해 개최할 7개 지역 축제를 최종 확정했다. 5월 류방택별축제, 6월 팔봉산감자축제·6쪽마늘축제, 8월 삼길포우럭축제, 10월 해미읍성축제·어리굴젓축제, 11월 국화축제가 이어진다. 해미벚꽃축제는 해미천 복구공사로 올해 개최하지 않는다.",
+        "date": "2026-02-24",
+        "source": "중도일보",
+        "url": "https://m.joongdo.co.kr/view.php?key=20260224010007232",
+        "tags": [
+          "축제",
+          "문화관광"
+        ]
+      },
+      {
+        "title": "제25회 팔봉산 감자축제 6월 개최",
+        "summary": "서산의 대표 농특산물 축제인 팔봉산 감자축제가 6월 팔봉면 양길리 어울림마당에서 열린다. 감자 캐기 체험, 가마솥 찐감자 시식, 왕 감자 선발대회 등 다채로운 프로그램이 마련된다. 전국 최초 지리적표시제 등록 상품인 팔봉산 감자를 직접 맛볼 수 있다.",
+        "date": "2026-02-24",
+        "source": "서산시청",
+        "url": "https://www.seosan.go.kr/tour/contents.do?key=6096",
+        "tags": [
+          "축제",
+          "팔봉산",
+          "감자"
+        ]
+      },
+      {
+        "title": "서산시문화회관 가족뮤지컬 '백설공주' 공연",
+        "summary": "서산시문화회관 대공연장에서 가족뮤지컬 '백설공주'가 무대에 올랐다. 2세 이상 관람가로 가족 단위 관객을 위한 상반기 기획공연이다.",
+        "date": "2026-06-07",
+        "source": "서산시문화회관",
+        "url": "https://www.seosan.go.kr/culture/index.do",
+        "tags": [
+          "공연",
+          "뮤지컬",
+          "문화회관"
+        ]
+      }
+    ],
+    "lifelong_learning": [
+      {
+        "title": "서산시 평생학습관, 찾아가는 AI·디지털 문해교육 강사 모집",
+        "summary": "서산시 평생학습관이 찾아가는 AI·디지털 문해교육 프로그램 운영을 위한 디지털 강사를 모집한다. 디지털 소외계층의 정보 격차 해소를 위한 사업이다. 자세한 사항은 평생학습관 홈페이지에서 확인할 수 있다.",
+        "date": "2026-04-02",
+        "source": "서산시 평생학습관",
+        "url": "https://www.seosan.go.kr/learning/index.do",
+        "tags": [
+          "평생학습",
+          "디지털",
+          "강사모집"
+        ]
+      }
+    ],
+    "welfare": [
+      {
+        "title": "서산시 종합사회복지관, 2026년 기능·취미교육 등 복지프로그램 운영",
+        "summary": "서산시 종합사회복지관이 올해 기능·취미 교육, 어르신 아카데미, 발달지연 아동 조기교육, 재가복지서비스 등을 추진한다. 기능·취미 교육은 39과목 60개 반으로 편성돼 981명이 등록했다. 신규로 홀로 사는 어르신을 위한 목욕·미용·말벗 서비스도 운영한다.",
+        "date": "2026-01-10",
+        "source": "시사저널",
+        "url": "https://www.sisajournal.com/news/articleView.html?idxno=324311",
+        "tags": [
+          "복지",
+          "종합사회복지관",
+          "프로그램"
+        ]
+      }
+    ],
+    "social_media": [
+      {
+        "title": "서산시 공식 채널, 다양한 시정·행사 소식 안내",
+        "summary": "서산시가 유튜브, 페이스북, 블로그, 인스타그램, 카카오채널 등 공식 채널을 통해 시정 소식과 행사 정보를 안내하고 있다. 축제·공연·복지 프로그램 등 생활 밀착형 정보를 실시간으로 제공한다.",
+        "date": "2026-06-10",
+        "source": "서산시 공식 블로그",
+        "url": "https://blog.naver.com/seosanlove",
+        "tags": [
+          "SNS",
+          "공식채널",
+          "소식"
+        ]
+      }
+    ]
+  },
+  "sources": [
+    "https://www.seosan.go.kr/www/selectMberBbsNttList.do?key=1687&bbsNo=12",
+    "https://www.seosan.go.kr/culture/index.do",
+    "https://www.seosan.go.kr/learning/index.do",
+    "https://www.seosan.go.kr/swcenter/index.do",
+    "https://www.seosan.go.kr/www/selectBbsNttList.do?bbsNo=620&key=2973",
+    "https://blog.naver.com/seosanlove",
+    "https://www.instagram.com/seosancity/"
+  ]
+}
